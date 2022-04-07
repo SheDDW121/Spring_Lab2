@@ -1,0 +1,4 @@
+﻿  Dll_Lib.cpp
+E:\VisualStudio\Projects\WPF\Dll_Lib\Dll_Lib.cpp(65,1): warning C4297: GetMKL: ожидается, что функция не будет выдавать исключения, но она это делает
+E:\VisualStudio\Projects\WPF\Dll_Lib\Dll_Lib.cpp(65,1): message : Функция типа extern "C", указан параметр /EHc
+  Dll_Lib.vcxproj -> E:\VisualStudio\Projects\WPF\x64\Debug\Dll_Lib.dll
